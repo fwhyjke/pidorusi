@@ -1,0 +1,13 @@
+# Готовые ролики — авторские исходники (render/ep1, render/ep2, …). Заготовка render/ep_template остаётся.
+render/ep[0-9]*/
+
+# Зависимости и черновики рендера
+render/node_modules/
+render/out/
+
+# Рабочие файлы и результаты роликов
+tmp/
+agi-ep*/
+
+# Системное
+.DS_Store
